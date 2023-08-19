@@ -78,4 +78,4 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
-![Image Description](https://static-00.iconduck.com/assets.00/android-studio-icon-1940x2048-pk1n6dh8.png)
+![Image Description](https://goobar.b-cdn.net/wp-content/uploads/2021/03/android_category_thumbnail.png)
